@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:1
+## Created with Unified Streaming Platform(version=1.6.7)
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=461100,CODECS="mp4a.40.2,avc1.66.30",RESOLUTION=384x160
+oceans_aes-audio=65000-video=370000.m3u8
