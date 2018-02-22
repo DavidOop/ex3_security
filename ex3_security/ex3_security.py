@@ -1,4 +1,4 @@
-# Created by: Nitay Yehezkely
+# Created by: David Wertenteil
 
 from Crypto.Cipher import AES
 import os
